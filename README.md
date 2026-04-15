@@ -25,3 +25,8 @@ prototype
 
 **Influencing Factors:** Before final adoption, we need feedback from the **Scouting Department**. If the "black box" nature of the Neural Network makes it too difficult for scouts to explain *why* a player is ranked highly to the GM, we may need to stick with the simpler Linear Model to maintain organizational "buy-in."
 main
+
+## Reflection on Innovation and Version Control
+- **Low-Risk Experimentation:** By using the `prototype` branch, I was able to build and tune a complex Neural Network without "breaking" the existing Linear Model that the GM was already using. This prevents technical errors from disrupting daily front-office operations.
+- **Gaining Traction:** Version control allows us to show the "Evolution of an Idea." When decision-makers see the iteration history, it demonstrates that the analytics team is constantly refining the tool based on performance data, which builds institutional trust.
+- **Alignment with Chapter 7:** This workflow mirrors the **Build Phase**. We moved from an abstract idea (Creative) to a tested version (Prototyping) and used "Engagement" (evaluating scout feedback) to decide on the final "Build" for the organization.
